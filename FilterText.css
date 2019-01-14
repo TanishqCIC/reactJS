@@ -1,0 +1,19 @@
+#dropdown {
+  display: block;
+  position: inherit;
+  background-color: #f9f9f9;
+  box-shadow: 0px 8px 4px 0px rgba(0,0,0,0.2);
+  color: black;
+  width: 50%;
+  height: 3%;
+  float: center;
+}
+
+#inputText{
+	width:50%;
+}
+
+#drop{
+	width: 100%;
+	padding-left: 0px;
+}
